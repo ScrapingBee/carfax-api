@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="carfax-api" />
+    <img src="https://github.com/user-attachments/assets/a3cae0ac-b1f7-4e6f-ac2b-c0f934220c65" alt="carfax-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/carfax-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/carfax-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/carfax-api.svg)](LICENSE)
